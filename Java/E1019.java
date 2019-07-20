@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 1019 {
+public class E1019 {
     public static void main(String[] args) {
         Scanner read = new Scanner(System.in);
         int hora = 0, min = 0, seg = 0;
