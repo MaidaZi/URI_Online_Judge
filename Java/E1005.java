@@ -1,10 +1,11 @@
 import java.util.Scanner;
 
-public class 1002 {
+public class E1005{
 	public static void main(String[] args) {
 	    Scanner read = new Scanner(System.in);
-	    double a;
+	    double a, b;
 	    a = read.nextDouble();
-		System.out.printf("A=%.4f\n", a * a * 3.14159);
+	    b = read.nextDouble();
+		System.out.printf("MEDIA = %.5f\n", (a*3.5 + b*7.5)/11.0);
 	}
 }

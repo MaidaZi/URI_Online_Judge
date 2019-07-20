@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 1014 {
+public class E1014 {
     public static void main(String[] args) {
         Scanner read = new Scanner(System.in);
         double km , l;

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 1009 {
+public class E1009 {
 	public static void main(String[] args) {
 	    Scanner read = new Scanner(System.in);
 	    String name;

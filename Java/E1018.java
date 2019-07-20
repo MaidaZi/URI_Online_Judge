@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 1018 {
+public class E1018 {
     public static void main(String[] args) {
         Scanner read = new Scanner(System.in);
         int cem = 0, cinquenta = 0, vinte = 0, dez = 0, cinco = 0, dois = 0, um = 0;

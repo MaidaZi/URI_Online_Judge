@@ -1,11 +1,13 @@
 import java.util.Scanner;
 
-public class 1004 {
+public class E1007 {
 	public static void main(String[] args) {
 	    Scanner read = new Scanner(System.in);
-	    int a, b;
+	    int a, b, c, d;
 	    a = read.nextInt();
 	    b = read.nextInt();
-		System.out.printf("PROD = %d\n", a * b);
+	    c = read.nextInt();
+	    d = read.nextInt();
+		System.out.printf("DIFERENCA = %d\n",  a*b - c*d);
 	}
 }

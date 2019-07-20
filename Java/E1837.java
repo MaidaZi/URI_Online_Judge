@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 1837 {
+public class E1837 {
     public static void main(String[] args) {
         Scanner read = new Scanner(System.in);
         int a, b, q, r;

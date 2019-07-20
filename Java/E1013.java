@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 1013 {
+public class E1013 {
     public static int maiorAB(int a, int b) {
         return ( (a+b+Math.abs(a-b) )/2 );
     }

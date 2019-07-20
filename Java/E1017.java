@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 1017 {
+public class E1017 {
     public static void main(String[] args) {
         Scanner read = new Scanner(System.in);
         double temp, vel;

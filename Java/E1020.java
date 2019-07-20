@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 1020 {
+public class E1020 {
     public static void main(String[] args) {
         Scanner read = new Scanner(System.in);
         int ano = 0, mes = 0, dia = 0;
