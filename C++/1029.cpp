@@ -10,7 +10,7 @@ int main() {
         calls = 0;
         cin >> num;
         long long int val = fib(num, calls);
-        cout << "fib(" << num << ") = " << calls - 1 << " calls = " << val << endl; //<< " calls = " << count << endl;
+        cout << "fib(" << num << ") = " << calls - 1 << " calls = " << val << endl;
     }
     return 0;
 }
