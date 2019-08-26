@@ -2,8 +2,6 @@
 #include <cmath>
 using namespace std;
 
-int contaDig(long long valor);
-
 int main(){
     string perna;
     while(getline(cin,perna)){
